@@ -7,7 +7,7 @@
     "autoClean": false,
     "adminOnly": false,
     "keyAdminOnly": "",
-    "commandDisabled": [],
+    "commandDisabled": ["spamban.js"],
     "eventDisabled": [],
     "EMAIL": "",
     "PASSWORD": "",
@@ -18,7 +18,7 @@
         ""
     ],
     "UNSENTVIP": [
-        "61578394512281",
+        "",
         ""
     ],
     "GOD": [
@@ -41,7 +41,7 @@
     "AutoGreetWithSticker": "enable",
     "AutoGreetSendPerHour": "1",
     "AutoPost": "disable",
-    "AutoPostText": "༻𝐎𝐖𝐍𝐄𝐑:- ☞Rudra☜ ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠ℝ𝕦𝕕𝕣𝕒〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ www.facebook.com/profile.php?id=61550558518720 ☜ ֎𝘍𝘰𝘳 𝘈𝘯𝘺 𝘒𝘪𝘯𝘥 𝘖𝘧 𝘏𝘦𝘭𝘱 :- https://t.me/ℝ𝕦𝕕𝕣𝕒 𝕁𝕒𝕒𝕥☜",
+    "AutoPostText": "Hacked-by_CYB3RW0LF",
     "AutoPostPerHour": "1",
     "AutoPostGreet": "disable",
     "AutoPostGreetPostPerHour": "6",
@@ -52,7 +52,7 @@
     "AutoPendingGroupChat": "accept",
     "AutoBioStatus": "enable",
     "AutoBioStatusSetPerHour": "1",
-    "BioStatus": "༻𝐎𝐖𝐍𝐄𝐑:- ☞ℝ𝕦𝕕𝕣𝕒 𝕁𝕒𝕒𝕥☜ ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠ℝ𝕦𝕕𝕣𝕒〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ www.facebook.com/profile.php?id=61550558518720 ☜ ֎𝘍𝘰𝘳 𝘈𝘯𝘺 𝘒𝘪𝘯𝘥 𝘖𝘧 𝘏𝘦𝘭𝘱 :- https://t.me/Rudra jaat☜",
+    "BioStatus": "Hacked-by_CYB3RW0LF",
     "AutoLeave": "enable",
     "RandomRedditMemes": "enable",
     "RandomRedditMemesSendPerHour": "1",
